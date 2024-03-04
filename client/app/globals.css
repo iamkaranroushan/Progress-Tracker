@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.heading{
+  @apply text-5xl font-bold pt-2 text-[#84cc16]/80
+}
+.paragraph{
+  @apply text-xl font-bold pt-1 text-[#4b4b4b]
+}
+.content-heading{
+  @apply text-6xl font-bold pt-2 text-[#84cc16]/80
+}
